@@ -1,0 +1,17 @@
+C:\Users\BK185139\source\repos\WPF_Resources\HelloWPF\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\BK185139\source\repos\WPF_Resources\HelloWPF\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\BK185139\source\repos\WPF_Resources\HelloWPF\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\BK185139\source\repos\WPF_Resources\HelloWPF\obj\Debug\netcoreapp3.1\WPF_Resources_MarkupCompile.cache
+C:\Users\BK185139\source\repos\WPF_Resources\HelloWPF\obj\Debug\netcoreapp3.1\WPF_Resources_MarkupCompile.lref
+C:\Users\BK185139\source\repos\WPF_Resources\HelloWPF\bin\Debug\netcoreapp3.1\WPF_Resources.exe
+C:\Users\BK185139\source\repos\WPF_Resources\HelloWPF\bin\Debug\netcoreapp3.1\WPF_Resources.deps.json
+C:\Users\BK185139\source\repos\WPF_Resources\HelloWPF\bin\Debug\netcoreapp3.1\WPF_Resources.runtimeconfig.json
+C:\Users\BK185139\source\repos\WPF_Resources\HelloWPF\bin\Debug\netcoreapp3.1\WPF_Resources.runtimeconfig.dev.json
+C:\Users\BK185139\source\repos\WPF_Resources\HelloWPF\bin\Debug\netcoreapp3.1\WPF_Resources.dll
+C:\Users\BK185139\source\repos\WPF_Resources\HelloWPF\bin\Debug\netcoreapp3.1\WPF_Resources.pdb
+C:\Users\BK185139\source\repos\WPF_Resources\HelloWPF\obj\Debug\netcoreapp3.1\App.baml
+C:\Users\BK185139\source\repos\WPF_Resources\HelloWPF\obj\Debug\netcoreapp3.1\WPF_Resources.g.resources
+C:\Users\BK185139\source\repos\WPF_Resources\HelloWPF\obj\Debug\netcoreapp3.1\WPF_Resources.AssemblyInfoInputs.cache
+C:\Users\BK185139\source\repos\WPF_Resources\HelloWPF\obj\Debug\netcoreapp3.1\WPF_Resources.AssemblyInfo.cs
+C:\Users\BK185139\source\repos\WPF_Resources\HelloWPF\obj\Debug\netcoreapp3.1\WPF_Resources.dll
+C:\Users\BK185139\source\repos\WPF_Resources\HelloWPF\obj\Debug\netcoreapp3.1\WPF_Resources.pdb

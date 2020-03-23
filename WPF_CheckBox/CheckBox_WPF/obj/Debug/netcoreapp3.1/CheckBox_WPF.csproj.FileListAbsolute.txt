@@ -1,0 +1,17 @@
+C:\Users\BK185139\source\repos\CheckBox_WPF\CheckBox_WPF\bin\Debug\netcoreapp3.1\CheckBox_WPF.exe
+C:\Users\BK185139\source\repos\CheckBox_WPF\CheckBox_WPF\bin\Debug\netcoreapp3.1\CheckBox_WPF.deps.json
+C:\Users\BK185139\source\repos\CheckBox_WPF\CheckBox_WPF\bin\Debug\netcoreapp3.1\CheckBox_WPF.runtimeconfig.json
+C:\Users\BK185139\source\repos\CheckBox_WPF\CheckBox_WPF\bin\Debug\netcoreapp3.1\CheckBox_WPF.runtimeconfig.dev.json
+C:\Users\BK185139\source\repos\CheckBox_WPF\CheckBox_WPF\bin\Debug\netcoreapp3.1\CheckBox_WPF.dll
+C:\Users\BK185139\source\repos\CheckBox_WPF\CheckBox_WPF\bin\Debug\netcoreapp3.1\CheckBox_WPF.pdb
+C:\Users\BK185139\source\repos\CheckBox_WPF\CheckBox_WPF\obj\Debug\netcoreapp3.1\CheckBox_WPF.csprojAssemblyReference.cache
+C:\Users\BK185139\source\repos\CheckBox_WPF\CheckBox_WPF\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\BK185139\source\repos\CheckBox_WPF\CheckBox_WPF\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\BK185139\source\repos\CheckBox_WPF\CheckBox_WPF\obj\Debug\netcoreapp3.1\CheckBox_WPF_MarkupCompile.cache
+C:\Users\BK185139\source\repos\CheckBox_WPF\CheckBox_WPF\obj\Debug\netcoreapp3.1\CheckBox_WPF_MarkupCompile.lref
+C:\Users\BK185139\source\repos\CheckBox_WPF\CheckBox_WPF\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\BK185139\source\repos\CheckBox_WPF\CheckBox_WPF\obj\Debug\netcoreapp3.1\CheckBox_WPF.g.resources
+C:\Users\BK185139\source\repos\CheckBox_WPF\CheckBox_WPF\obj\Debug\netcoreapp3.1\CheckBox_WPF.AssemblyInfoInputs.cache
+C:\Users\BK185139\source\repos\CheckBox_WPF\CheckBox_WPF\obj\Debug\netcoreapp3.1\CheckBox_WPF.AssemblyInfo.cs
+C:\Users\BK185139\source\repos\CheckBox_WPF\CheckBox_WPF\obj\Debug\netcoreapp3.1\CheckBox_WPF.dll
+C:\Users\BK185139\source\repos\CheckBox_WPF\CheckBox_WPF\obj\Debug\netcoreapp3.1\CheckBox_WPF.pdb

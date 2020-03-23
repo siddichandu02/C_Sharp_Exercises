@@ -1,0 +1,30 @@
+﻿@using System.Data
+@using System.Data.SqlClient
+@model System.Data.DataTable
+@{
+}
+
+<h1>View Friends</h1>
+
+<div class="friends">
+    <table border="1">
+        <tr>
+            <th>FriendId</th>
+            <th>FriendName</th>
+            <th>Place</th>
+        </tr>
+
+        @foreach (DataRow dr in Model.Rows)
+        {
+            <tr>
+                <td>@dr["FriendId"].ToString()</td>
+
+                <td>@dr["FriendName"].ToString()</td>
+
+                <td>@dr["Place"].ToString()</td>
+            </tr>
+
+
+        }
+    </table>
+</div>

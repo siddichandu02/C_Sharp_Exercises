@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "HelloWPF": {
+      "commandName": "Project",
+      "commandLineArgs": "win.ini"
+    }
+  }
+}

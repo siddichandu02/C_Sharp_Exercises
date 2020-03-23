@@ -1,0 +1,15 @@
+C:\Users\BK185139\source\repos\ttd-unit-mstest\ttd-unit-mstest\obj\Debug\ttd-unit-mstest.csprojAssemblyReference.cache
+C:\Users\BK185139\source\repos\ttd-unit-mstest\ttd-unit-mstest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\BK185139\source\repos\ttd-unit-mstest\ttd-unit-mstest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\BK185139\source\repos\ttd-unit-mstest\ttd-unit-mstest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\BK185139\source\repos\ttd-unit-mstest\ttd-unit-mstest\bin\Debug\ttd-unit-mstest.dll
+C:\Users\BK185139\source\repos\ttd-unit-mstest\ttd-unit-mstest\bin\Debug\ttd-unit-mstest.pdb
+C:\Users\BK185139\source\repos\ttd-unit-mstest\ttd-unit-mstest\bin\Debug\Calculator.dll
+C:\Users\BK185139\source\repos\ttd-unit-mstest\ttd-unit-mstest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\BK185139\source\repos\ttd-unit-mstest\ttd-unit-mstest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\BK185139\source\repos\ttd-unit-mstest\ttd-unit-mstest\bin\Debug\Calculator.pdb
+C:\Users\BK185139\source\repos\ttd-unit-mstest\ttd-unit-mstest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\BK185139\source\repos\ttd-unit-mstest\ttd-unit-mstest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\BK185139\source\repos\ttd-unit-mstest\ttd-unit-mstest\obj\Debug\ttd-unit-mstest.csproj.CopyComplete
+C:\Users\BK185139\source\repos\ttd-unit-mstest\ttd-unit-mstest\obj\Debug\ttd-unit-mstest.dll
+C:\Users\BK185139\source\repos\ttd-unit-mstest\ttd-unit-mstest\obj\Debug\ttd-unit-mstest.pdb

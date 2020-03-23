@@ -1,0 +1,8 @@
+C:\Users\BK185139\source\repos\ttd-unit-mstest\Calculator\bin\Debug\netstandard2.0\Calculator.deps.json
+C:\Users\BK185139\source\repos\ttd-unit-mstest\Calculator\bin\Debug\netstandard2.0\Calculator.dll
+C:\Users\BK185139\source\repos\ttd-unit-mstest\Calculator\bin\Debug\netstandard2.0\Calculator.pdb
+C:\Users\BK185139\source\repos\ttd-unit-mstest\Calculator\obj\Debug\netstandard2.0\Calculator.csprojAssemblyReference.cache
+C:\Users\BK185139\source\repos\ttd-unit-mstest\Calculator\obj\Debug\netstandard2.0\Calculator.AssemblyInfoInputs.cache
+C:\Users\BK185139\source\repos\ttd-unit-mstest\Calculator\obj\Debug\netstandard2.0\Calculator.AssemblyInfo.cs
+C:\Users\BK185139\source\repos\ttd-unit-mstest\Calculator\obj\Debug\netstandard2.0\Calculator.dll
+C:\Users\BK185139\source\repos\ttd-unit-mstest\Calculator\obj\Debug\netstandard2.0\Calculator.pdb

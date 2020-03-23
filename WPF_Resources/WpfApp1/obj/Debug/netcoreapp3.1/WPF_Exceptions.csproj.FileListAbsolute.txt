@@ -1,0 +1,17 @@
+C:\Users\BK185139\source\repos\WPF_Resources\WpfApp1\bin\Debug\netcoreapp3.1\WPF_Exceptions.exe
+C:\Users\BK185139\source\repos\WPF_Resources\WpfApp1\bin\Debug\netcoreapp3.1\WPF_Exceptions.deps.json
+C:\Users\BK185139\source\repos\WPF_Resources\WpfApp1\bin\Debug\netcoreapp3.1\WPF_Exceptions.runtimeconfig.json
+C:\Users\BK185139\source\repos\WPF_Resources\WpfApp1\bin\Debug\netcoreapp3.1\WPF_Exceptions.runtimeconfig.dev.json
+C:\Users\BK185139\source\repos\WPF_Resources\WpfApp1\bin\Debug\netcoreapp3.1\WPF_Exceptions.dll
+C:\Users\BK185139\source\repos\WPF_Resources\WpfApp1\bin\Debug\netcoreapp3.1\WPF_Exceptions.pdb
+C:\Users\BK185139\source\repos\WPF_Resources\WpfApp1\obj\Debug\netcoreapp3.1\WPF_Exceptions.csprojAssemblyReference.cache
+C:\Users\BK185139\source\repos\WPF_Resources\WpfApp1\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\BK185139\source\repos\WPF_Resources\WpfApp1\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\BK185139\source\repos\WPF_Resources\WpfApp1\obj\Debug\netcoreapp3.1\WPF_Exceptions_MarkupCompile.cache
+C:\Users\BK185139\source\repos\WPF_Resources\WpfApp1\obj\Debug\netcoreapp3.1\WPF_Exceptions_MarkupCompile.lref
+C:\Users\BK185139\source\repos\WPF_Resources\WpfApp1\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\BK185139\source\repos\WPF_Resources\WpfApp1\obj\Debug\netcoreapp3.1\WPF_Exceptions.g.resources
+C:\Users\BK185139\source\repos\WPF_Resources\WpfApp1\obj\Debug\netcoreapp3.1\WPF_Exceptions.AssemblyInfoInputs.cache
+C:\Users\BK185139\source\repos\WPF_Resources\WpfApp1\obj\Debug\netcoreapp3.1\WPF_Exceptions.AssemblyInfo.cs
+C:\Users\BK185139\source\repos\WPF_Resources\WpfApp1\obj\Debug\netcoreapp3.1\WPF_Exceptions.dll
+C:\Users\BK185139\source\repos\WPF_Resources\WpfApp1\obj\Debug\netcoreapp3.1\WPF_Exceptions.pdb
