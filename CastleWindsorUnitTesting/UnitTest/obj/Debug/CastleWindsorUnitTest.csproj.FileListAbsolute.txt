@@ -1,0 +1,17 @@
+C:\Users\BK185139\source\repos\CastleWindsorUnitTesting\UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\BK185139\source\repos\CastleWindsorUnitTesting\UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\BK185139\source\repos\CastleWindsorUnitTesting\UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\BK185139\source\repos\CastleWindsorUnitTesting\UnitTest\bin\Debug\UnitTest.dll
+C:\Users\BK185139\source\repos\CastleWindsorUnitTesting\UnitTest\bin\Debug\UnitTest.pdb
+C:\Users\BK185139\source\repos\CastleWindsorUnitTesting\UnitTest\bin\Debug\Castle.Core.dll
+C:\Users\BK185139\source\repos\CastleWindsorUnitTesting\UnitTest\bin\Debug\Castle.Windsor.dll
+C:\Users\BK185139\source\repos\CastleWindsorUnitTesting\UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\BK185139\source\repos\CastleWindsorUnitTesting\UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\BK185139\source\repos\CastleWindsorUnitTesting\UnitTest\bin\Debug\Castle.Core.xml
+C:\Users\BK185139\source\repos\CastleWindsorUnitTesting\UnitTest\bin\Debug\Castle.Windsor.xml
+C:\Users\BK185139\source\repos\CastleWindsorUnitTesting\UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\BK185139\source\repos\CastleWindsorUnitTesting\UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\BK185139\source\repos\CastleWindsorUnitTesting\UnitTest\obj\Debug\CastleWindsorUnitTest.csprojAssemblyReference.cache
+C:\Users\BK185139\source\repos\CastleWindsorUnitTesting\UnitTest\obj\Debug\CastleWindsorUnitTest.csproj.CopyComplete
+C:\Users\BK185139\source\repos\CastleWindsorUnitTesting\UnitTest\obj\Debug\UnitTest.dll
+C:\Users\BK185139\source\repos\CastleWindsorUnitTesting\UnitTest\obj\Debug\UnitTest.pdb

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\BK185139\\source\\repos\\friends\\friends.csproj": {}
+    "C:\\Users\\BK185139\\source\\repos\\C_Sharp_Exercises\\friends_EntityFramework\\friends.csproj": {}
   },
   "projects": {
-    "C:\\Users\\BK185139\\source\\repos\\friends\\friends.csproj": {
+    "C:\\Users\\BK185139\\source\\repos\\C_Sharp_Exercises\\friends_EntityFramework\\friends.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\BK185139\\source\\repos\\friends\\friends.csproj",
+        "projectUniqueName": "C:\\Users\\BK185139\\source\\repos\\C_Sharp_Exercises\\friends_EntityFramework\\friends.csproj",
         "projectName": "friends",
-        "projectPath": "C:\\Users\\BK185139\\source\\repos\\friends\\friends.csproj",
+        "projectPath": "C:\\Users\\BK185139\\source\\repos\\C_Sharp_Exercises\\friends_EntityFramework\\friends.csproj",
         "packagesPath": "C:\\Users\\BK185139\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\BK185139\\source\\repos\\friends\\obj\\",
+        "outputPath": "C:\\Users\\BK185139\\source\\repos\\C_Sharp_Exercises\\friends_EntityFramework\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\BK185139\\AppData\\Roaming\\NuGet\\NuGet.Config",

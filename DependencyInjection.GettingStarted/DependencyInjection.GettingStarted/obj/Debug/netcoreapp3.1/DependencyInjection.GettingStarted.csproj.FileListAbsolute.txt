@@ -1,0 +1,17 @@
+C:\Users\BK185139\source\repos\DependencyInjection.GettingStarted\DependencyInjection.GettingStarted\bin\Debug\netcoreapp3.1\DependencyInjection.GettingStarted.exe
+C:\Users\BK185139\source\repos\DependencyInjection.GettingStarted\DependencyInjection.GettingStarted\obj\Debug\netcoreapp3.1\DependencyInjection.GettingStarted.csprojAssemblyReference.cache
+C:\Users\BK185139\source\repos\DependencyInjection.GettingStarted\DependencyInjection.GettingStarted\obj\Debug\netcoreapp3.1\DependencyInjection.GettingStarted.AssemblyInfoInputs.cache
+C:\Users\BK185139\source\repos\DependencyInjection.GettingStarted\DependencyInjection.GettingStarted\obj\Debug\netcoreapp3.1\DependencyInjection.GettingStarted.AssemblyInfo.cs
+C:\Users\BK185139\source\repos\DependencyInjection.GettingStarted\DependencyInjection.GettingStarted\bin\Debug\netcoreapp3.1\DependencyInjection.GettingStarted.deps.json
+C:\Users\BK185139\source\repos\DependencyInjection.GettingStarted\DependencyInjection.GettingStarted\bin\Debug\netcoreapp3.1\DependencyInjection.GettingStarted.runtimeconfig.json
+C:\Users\BK185139\source\repos\DependencyInjection.GettingStarted\DependencyInjection.GettingStarted\bin\Debug\netcoreapp3.1\DependencyInjection.GettingStarted.runtimeconfig.dev.json
+C:\Users\BK185139\source\repos\DependencyInjection.GettingStarted\DependencyInjection.GettingStarted\bin\Debug\netcoreapp3.1\DependencyInjection.GettingStarted.dll
+C:\Users\BK185139\source\repos\DependencyInjection.GettingStarted\DependencyInjection.GettingStarted\bin\Debug\netcoreapp3.1\DependencyInjection.GettingStarted.pdb
+C:\Users\BK185139\source\repos\DependencyInjection.GettingStarted\DependencyInjection.GettingStarted\bin\Debug\netcoreapp3.1\Castle.Core.dll
+C:\Users\BK185139\source\repos\DependencyInjection.GettingStarted\DependencyInjection.GettingStarted\bin\Debug\netcoreapp3.1\Castle.Windsor.dll
+C:\Users\BK185139\source\repos\DependencyInjection.GettingStarted\DependencyInjection.GettingStarted\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\BK185139\source\repos\DependencyInjection.GettingStarted\DependencyInjection.GettingStarted\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+C:\Users\BK185139\source\repos\DependencyInjection.GettingStarted\DependencyInjection.GettingStarted\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\BK185139\source\repos\DependencyInjection.GettingStarted\DependencyInjection.GettingStarted\obj\Debug\netcoreapp3.1\DependencyInjection.GettingStarted.csproj.CopyComplete
+C:\Users\BK185139\source\repos\DependencyInjection.GettingStarted\DependencyInjection.GettingStarted\obj\Debug\netcoreapp3.1\DependencyInjection.GettingStarted.dll
+C:\Users\BK185139\source\repos\DependencyInjection.GettingStarted\DependencyInjection.GettingStarted\obj\Debug\netcoreapp3.1\DependencyInjection.GettingStarted.pdb

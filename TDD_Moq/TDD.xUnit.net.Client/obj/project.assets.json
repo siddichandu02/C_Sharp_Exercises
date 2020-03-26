@@ -7019,11 +7019,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\BK185139\\source\\repos\\TDD.xUnit.net.Client\\TDD.xUnit.net.Client\\TDD.xUnit.net.Client.csproj",
+      "projectUniqueName": "C:\\Users\\BK185139\\source\\repos\\C_Sharp_Exercises\\TDD_Moq\\TDD.xUnit.net.Client\\TDD.xUnit.net.Client.csproj",
       "projectName": "TDD.xUnit.net.Client",
-      "projectPath": "C:\\Users\\BK185139\\source\\repos\\TDD.xUnit.net.Client\\TDD.xUnit.net.Client\\TDD.xUnit.net.Client.csproj",
+      "projectPath": "C:\\Users\\BK185139\\source\\repos\\C_Sharp_Exercises\\TDD_Moq\\TDD.xUnit.net.Client\\TDD.xUnit.net.Client.csproj",
       "packagesPath": "C:\\Users\\BK185139\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\BK185139\\source\\repos\\TDD.xUnit.net.Client\\TDD.xUnit.net.Client\\obj\\",
+      "outputPath": "C:\\Users\\BK185139\\source\\repos\\C_Sharp_Exercises\\TDD_Moq\\TDD.xUnit.net.Client\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\BK185139\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -7039,8 +7039,8 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "C:\\Users\\BK185139\\source\\repos\\TDD.xUnit.net.Client\\Calculator\\Calculator.csproj": {
-              "projectPath": "C:\\Users\\BK185139\\source\\repos\\TDD.xUnit.net.Client\\Calculator\\Calculator.csproj"
+            "C:\\Users\\BK185139\\source\\repos\\C_Sharp_Exercises\\TDD_Moq\\Calculator\\Calculator.csproj": {
+              "projectPath": "C:\\Users\\BK185139\\source\\repos\\C_Sharp_Exercises\\TDD_Moq\\Calculator\\Calculator.csproj"
             }
           }
         }
