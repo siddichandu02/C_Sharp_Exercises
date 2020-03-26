@@ -14,7 +14,8 @@ namespace MVCCastleWindsorDemo.Installers
         {
             container.Register(
                 Component
-                    .For<ProductDbContext>()
+                    .For<IProductRepository>()
+                    .ImplementedBy<ProductRepository>()
                     .LifestyleSingleton());
         }
     }

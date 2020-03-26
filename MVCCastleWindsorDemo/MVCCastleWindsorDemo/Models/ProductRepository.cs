@@ -7,33 +7,52 @@ namespace MVCCastleWindsorDemo.Models
 {
     public class ProductRepository : IProductRepository
     {
-        public List<Product> products = new List<Product>
+        private ProductDbContext ProductDatabase = new ProductDbContext();
+        public IEnumerable<Product> GetAll()
         {
-            new Product{ Id = 100 ,Name = "Book" , category = "Education", price = 100 }
-        };
-        public Product Add(Product item)
-        {
-            throw new NotImplementedException();
+            var products = ProductDatabase.Products.ToList();
+            return products;
         }
 
         public Product Get(int id)
         {
-            throw new NotImplementedException();
+            Product product = ProductDatabase.Products.Find(id);
+            return product;
         }
 
-        public IEnumerable<Product> GetAll()
+        public Product Add(Product product)
         {
-            throw new NotImplementedException();
+
+            ProductDatabase.Products.Add(product);
+            ProductDatabase.SaveChanges();
+            return product;
         }
 
         public void Remove(int id)
         {
-            throw new NotImplementedException();
+            Product product = ProductDatabase.Products.Find(id);
+            ProductDatabase.Products.Remove(product);
+            ProductDatabase.SaveChanges();
+
+
         }
 
-        public bool Update(Product item)
+        public bool Update(Product product)
         {
-            throw new NotImplementedException();
+
+            var result = ProductDatabase.Products.SingleOrDefault(x => x.Id == product.Id);
+            if (result != null)
+            {
+                result.Name = product.Name;
+                result.category = product.category;
+                result.price = product.price;
+                ProductDatabase.SaveChanges();
+                return true;
+
+            }
+            else
+                throw new ArgumentNullException();
+
         }
     }
 }

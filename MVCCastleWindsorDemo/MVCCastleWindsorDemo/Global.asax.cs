@@ -1,5 +1,8 @@
-﻿using System;
+﻿using Microsoft.EntityFrameworkCore;
+using Microsoft.Extensions.DependencyInjection;
+using System;
 using System.Collections.Generic;
+using System.Configuration;
 using System.Linq;
 using System.Web;
 using System.Web.Mvc;
@@ -17,5 +20,11 @@ namespace MVCCastleWindsorDemo
             RouteConfig.RegisterRoutes(RouteTable.Routes);
             BundleConfig.RegisterBundles(BundleTable.Bundles);
         }
+        //public void ConfigureServices(IServiceCollection services)
+        //{
+        //    services.AddDbContext<ProductDbContext>(options =>
+        //options.UseSqlServer(Configuration.GetConnectionString("DefaultConnection")));
+
+        //}
     }
 }
