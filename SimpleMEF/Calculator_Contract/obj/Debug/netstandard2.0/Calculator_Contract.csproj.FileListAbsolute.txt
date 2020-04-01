@@ -1,0 +1,8 @@
+C:\Users\BK185139\source\repos\SimpleMEF\Calculator_Contract\bin\Debug\netstandard2.0\Calculator_Contract.deps.json
+C:\Users\BK185139\source\repos\SimpleMEF\Calculator_Contract\bin\Debug\netstandard2.0\Calculator_Contract.dll
+C:\Users\BK185139\source\repos\SimpleMEF\Calculator_Contract\obj\Debug\netstandard2.0\Calculator_Contract.csprojAssemblyReference.cache
+C:\Users\BK185139\source\repos\SimpleMEF\Calculator_Contract\obj\Debug\netstandard2.0\Calculator_Contract.AssemblyInfoInputs.cache
+C:\Users\BK185139\source\repos\SimpleMEF\Calculator_Contract\obj\Debug\netstandard2.0\Calculator_Contract.AssemblyInfo.cs
+C:\Users\BK185139\source\repos\SimpleMEF\Calculator_Contract\bin\Debug\netstandard2.0\Calculator_Contract.pdb
+C:\Users\BK185139\source\repos\SimpleMEF\Calculator_Contract\obj\Debug\netstandard2.0\Calculator_Contract.dll
+C:\Users\BK185139\source\repos\SimpleMEF\Calculator_Contract\obj\Debug\netstandard2.0\Calculator_Contract.pdb

@@ -1,0 +1,11 @@
+C:\Users\BK185139\source\repos\SimpleMEF\Subtraction\bin\Debug\netstandard2.0\Subtraction.deps.json
+C:\Users\BK185139\source\repos\SimpleMEF\Subtraction\bin\Debug\netstandard2.0\Subtraction.dll
+C:\Users\BK185139\source\repos\SimpleMEF\Subtraction\bin\Debug\netstandard2.0\Subtraction.pdb
+C:\Users\BK185139\source\repos\SimpleMEF\Subtraction\bin\Debug\netstandard2.0\Calculator_Contract.dll
+C:\Users\BK185139\source\repos\SimpleMEF\Subtraction\bin\Debug\netstandard2.0\Calculator_Contract.pdb
+C:\Users\BK185139\source\repos\SimpleMEF\Subtraction\obj\Debug\netstandard2.0\Subtraction.csprojAssemblyReference.cache
+C:\Users\BK185139\source\repos\SimpleMEF\Subtraction\obj\Debug\netstandard2.0\Subtraction.AssemblyInfoInputs.cache
+C:\Users\BK185139\source\repos\SimpleMEF\Subtraction\obj\Debug\netstandard2.0\Subtraction.AssemblyInfo.cs
+C:\Users\BK185139\source\repos\SimpleMEF\Subtraction\obj\Debug\netstandard2.0\Subtraction.csproj.CopyComplete
+C:\Users\BK185139\source\repos\SimpleMEF\Subtraction\obj\Debug\netstandard2.0\Subtraction.dll
+C:\Users\BK185139\source\repos\SimpleMEF\Subtraction\obj\Debug\netstandard2.0\Subtraction.pdb

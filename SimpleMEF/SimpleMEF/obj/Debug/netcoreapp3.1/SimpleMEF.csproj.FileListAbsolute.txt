@@ -1,0 +1,13 @@
+C:\Users\BK185139\source\repos\SimpleMEF\SimpleMEF\bin\Debug\netcoreapp3.1\SimpleMEF.exe
+C:\Users\BK185139\source\repos\SimpleMEF\SimpleMEF\bin\Debug\netcoreapp3.1\SimpleMEF.deps.json
+C:\Users\BK185139\source\repos\SimpleMEF\SimpleMEF\bin\Debug\netcoreapp3.1\SimpleMEF.runtimeconfig.json
+C:\Users\BK185139\source\repos\SimpleMEF\SimpleMEF\bin\Debug\netcoreapp3.1\SimpleMEF.runtimeconfig.dev.json
+C:\Users\BK185139\source\repos\SimpleMEF\SimpleMEF\bin\Debug\netcoreapp3.1\SimpleMEF.dll
+C:\Users\BK185139\source\repos\SimpleMEF\SimpleMEF\bin\Debug\netcoreapp3.1\SimpleMEF.pdb
+C:\Users\BK185139\source\repos\SimpleMEF\SimpleMEF\obj\Debug\netcoreapp3.1\SimpleMEF.csprojAssemblyReference.cache
+C:\Users\BK185139\source\repos\SimpleMEF\SimpleMEF\obj\Debug\netcoreapp3.1\SimpleMEF.AssemblyInfoInputs.cache
+C:\Users\BK185139\source\repos\SimpleMEF\SimpleMEF\obj\Debug\netcoreapp3.1\SimpleMEF.AssemblyInfo.cs
+C:\Users\BK185139\source\repos\SimpleMEF\SimpleMEF\obj\Debug\netcoreapp3.1\SimpleMEF.dll
+C:\Users\BK185139\source\repos\SimpleMEF\SimpleMEF\obj\Debug\netcoreapp3.1\SimpleMEF.pdb
+C:\Users\BK185139\source\repos\SimpleMEF\SimpleMEF\bin\Debug\netcoreapp3.1\System.ComponentModel.Composition.dll
+C:\Users\BK185139\source\repos\SimpleMEF\SimpleMEF\obj\Debug\netcoreapp3.1\SimpleMEF.csproj.CopyComplete

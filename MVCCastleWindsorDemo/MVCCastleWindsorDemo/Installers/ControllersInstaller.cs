@@ -5,6 +5,7 @@ using Castle.Windsor;
 
 namespace MVCCastleWindsorDemo.Installers
 {
+    using MVCCastleWindsorDemo.Models;
     using Plumbing;
 
     public class ControllersInstaller : IWindsorInstaller
@@ -19,6 +20,15 @@ namespace MVCCastleWindsorDemo.Installers
                     LifestyleTransient());
 
             ControllerBuilder.Current.SetControllerFactory(new WindsorControllerFactory(container));
+
+
+            container.Register(
+                   Component
+                       .For<IProductRepository>()
+                        .ImplementedBy<ProductRepository>()
+                        .LifestyleSingleton());
+
         }
+        
     }
 }

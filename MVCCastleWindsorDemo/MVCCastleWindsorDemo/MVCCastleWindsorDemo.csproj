@@ -237,8 +237,9 @@
       <DependentUpon>Global.asax</DependentUpon>
     </Compile>
     <Compile Include="Installers\ControllersInstaller.cs" />
-    <Compile Include="Installers\ServiceInstaller.cs" />
+    <Compile Include="Models\IDbContext.cs" />
     <Compile Include="Models\IProductRepository.cs" />
+    <Compile Include="Models\Product2Repository.cs" />
     <Compile Include="Models\ProductRepository.cs" />
     <Compile Include="Plumbing\WindsorControllerFactory.cs" />
     <Compile Include="Product.cs">

@@ -14,7 +14,7 @@ namespace MVCCastleWindsorDemo
     using System.Data.Entity;
     using System.Data.Entity.Infrastructure;
     
-    public partial class ProductDbContext : DbContext
+    public partial class ProductDbContext : DbContext //, IDbContext
     {
         public ProductDbContext()
             : base("name=ProductDbContext")
@@ -25,7 +25,6 @@ namespace MVCCastleWindsorDemo
         {
             throw new UnintentionalCodeFirstException();
         }
-    
         public virtual DbSet<Product> Products { get; set; }
     }
 }

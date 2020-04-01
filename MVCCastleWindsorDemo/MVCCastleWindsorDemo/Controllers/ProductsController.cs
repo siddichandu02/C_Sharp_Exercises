@@ -14,9 +14,9 @@ namespace MVCCastleWindsorDemo.Controllers
     public class ProductsController : Controller
     {
         private IProductRepository repository;
-        public ProductsController(IProductRepository repository1)
+        public ProductsController(IProductRepository repositoryService)
         {
-            repository = repository1;
+            repository = repositoryService;
         }
 
         // GET: Products
@@ -68,7 +68,7 @@ namespace MVCCastleWindsorDemo.Controllers
 
 
         [HttpPost]
-       // [ValidateAntiForgeryToken]
+       [ValidateAntiForgeryToken]
         public ActionResult Edit([Bind(Include = "Id,Name,category,price")] Product product)
         {
             if (ModelState.IsValid)

@@ -1,0 +1,159 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "System.ComponentModel.Composition/4.7.0": {
+        "type": "package",
+        "compile": {
+          "ref/netstandard2.0/System.ComponentModel.Composition.dll": {}
+        },
+        "runtime": {
+          "lib/netcoreapp2.0/System.ComponentModel.Composition.dll": {}
+        }
+      },
+      "Calculator_Contract/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.0",
+        "dependencies": {
+          "System.ComponentModel.Composition": "4.7.0"
+        },
+        "compile": {
+          "bin/placeholder/Calculator_Contract.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Calculator_Contract.dll": {}
+        }
+      },
+      "CompositionHelper/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.0",
+        "dependencies": {
+          "Calculator_Contract": "1.0.0",
+          "System.ComponentModel.Composition": "4.7.0"
+        },
+        "compile": {
+          "bin/placeholder/CompositionHelper.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/CompositionHelper.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "System.ComponentModel.Composition/4.7.0": {
+      "sha512": "TKOHGbuqp7++lEna7+p19kTR8rKeAeoo2Faab2n2q7spV2CWPevmUkghMG6POKfSdeQhtAJoNZ33FT+01CNe3g==",
+      "type": "package",
+      "path": "system.componentmodel.composition/4.7.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "LICENSE.TXT",
+        "THIRD-PARTY-NOTICES.TXT",
+        "lib/MonoAndroid10/_._",
+        "lib/MonoTouch10/_._",
+        "lib/net45/_._",
+        "lib/netcoreapp2.0/System.ComponentModel.Composition.dll",
+        "lib/netcoreapp2.0/System.ComponentModel.Composition.xml",
+        "lib/netstandard2.0/System.ComponentModel.Composition.dll",
+        "lib/netstandard2.0/System.ComponentModel.Composition.xml",
+        "lib/uap10.0.16299/_._",
+        "lib/xamarinios10/_._",
+        "lib/xamarinmac20/_._",
+        "lib/xamarintvos10/_._",
+        "lib/xamarinwatchos10/_._",
+        "ref/MonoAndroid10/_._",
+        "ref/MonoTouch10/_._",
+        "ref/net45/_._",
+        "ref/netstandard2.0/System.ComponentModel.Composition.dll",
+        "ref/netstandard2.0/System.ComponentModel.Composition.xml",
+        "ref/uap10.0.16299/_._",
+        "ref/xamarinios10/_._",
+        "ref/xamarinmac20/_._",
+        "ref/xamarintvos10/_._",
+        "ref/xamarinwatchos10/_._",
+        "system.componentmodel.composition.4.7.0.nupkg.sha512",
+        "system.componentmodel.composition.nuspec",
+        "useSharedDesignerContext.txt",
+        "version.txt"
+      ]
+    },
+    "Calculator_Contract/1.0.0": {
+      "type": "project",
+      "path": "../Calculator_Contract/Calculator_Contract.csproj",
+      "msbuildProject": "../Calculator_Contract/Calculator_Contract.csproj"
+    },
+    "CompositionHelper/1.0.0": {
+      "type": "project",
+      "path": "../CompositionHelper/CompositionHelper.csproj",
+      "msbuildProject": "../CompositionHelper/CompositionHelper.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETCoreApp,Version=v3.1": [
+      "CompositionHelper >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\BK185139\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\BK185139\\source\\repos\\SimpleMEF\\CalcuatorUI\\CalcuatorUI.csproj",
+      "projectName": "CalcuatorUI",
+      "projectPath": "C:\\Users\\BK185139\\source\\repos\\SimpleMEF\\CalcuatorUI\\CalcuatorUI.csproj",
+      "packagesPath": "C:\\Users\\BK185139\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\BK185139\\source\\repos\\SimpleMEF\\CalcuatorUI\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\BK185139\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "netcoreapp3.1"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "projectReferences": {
+            "C:\\Users\\BK185139\\source\\repos\\SimpleMEF\\CompositionHelper\\CompositionHelper.csproj": {
+              "projectPath": "C:\\Users\\BK185139\\source\\repos\\SimpleMEF\\CompositionHelper\\CompositionHelper.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "netcoreapp3.1": {
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          },
+          "Microsoft.WindowsDesktop.App.WPF": {
+            "privateAssets": "none"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}
