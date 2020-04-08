@@ -9,14 +9,14 @@ namespace Ado_friends.Models
 {
     public class Crud
     {
-        private string strConString = @"Data Source=WINBK185139-ETV;Initial Catalog=FriendsAdo;Integrated Security=true;";
+        private string strConString = @"Data Source=WINBK185139-ETV;Initial Catalog=Friendsdb;Integrated Security=true;";
         public int InsertStudent(int id, string friendName, string place)
         {
 
             using (SqlConnection con = new SqlConnection(strConString))
             {
                 con.Open();
-                string query = "Insert into Friends2 (FriendId,FriendName,Place) values(@friendid, @friendname , @place)";
+                string query = "Insert into Friend (FriendId,FriendName,Place) values(@friendid, @friendname , @place)";
                 SqlCommand cmd = new SqlCommand(query, con);
                 cmd.Parameters.AddWithValue("@friendname", friendName);
                 cmd.Parameters.AddWithValue("@friendid", id);
@@ -30,7 +30,7 @@ namespace Ado_friends.Models
             using (SqlConnection con = new SqlConnection(strConString))
             {
                 con.Open();
-                string query = "Update Friends2 set FriendName=@friendname,Place=@place where FriendId=@friendid";
+                string query = "Update Friend set FriendName=@friendname,Place=@place where FriendId=@friendid";
                 SqlCommand cmd = new SqlCommand(query, con);
                 cmd.Parameters.AddWithValue("@friendname", friendName);
                 cmd.Parameters.AddWithValue("@friendid", id);
@@ -45,7 +45,7 @@ namespace Ado_friends.Models
             using (SqlConnection con = new SqlConnection(strConString))
             {
                 con.Open();
-                SqlCommand cmd = new SqlCommand("Select * from Friends2", con);
+                SqlCommand cmd = new SqlCommand("Select * from Friend", con);
                 SqlDataAdapter da = new SqlDataAdapter(cmd);
                 da.Fill(dt);
             }
@@ -57,7 +57,7 @@ namespace Ado_friends.Models
             using (SqlConnection con = new SqlConnection(strConString))
             {
                 con.Open();
-                string query = "Delete from Friends2 where FriendId=@friendid";
+                string query = "Delete from Friend where FriendId=@friendid";
                 SqlCommand cmd = new SqlCommand(query, con);
                 cmd.Parameters.AddWithValue("@friendid", friendID);
                 return cmd.ExecuteNonQuery();

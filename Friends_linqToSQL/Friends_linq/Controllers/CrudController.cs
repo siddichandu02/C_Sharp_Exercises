@@ -1,4 +1,5 @@
-﻿using System;
+﻿using Friends_linq.Models;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Web;
@@ -9,17 +10,17 @@ namespace Friends_linq.Controllers
     public class CrudController : Controller
     {
         // GET: Crud
-        DataClasses1DataContext dc = new DataClasses1DataContext();
+        FriendDataClassesDataContext dc = new FriendDataClassesDataContext();
         public ActionResult Index()
         {
-            var frienddetails = from x in dc.Friends2s select x;
+            var frienddetails = from x in dc.Friends select x;
             return View(frienddetails);
         }
 
         // GET: Crud/Details/5
         public ActionResult Details(int id)
         {
-            var getFriendDetails = dc.Friends2s.Single(x => x.FriendId == id);
+            var getFriendDetails = dc.Friends.Single(x => x.FriendId == id);
             return View(getFriendDetails);
         }
 
@@ -31,12 +32,12 @@ namespace Friends_linq.Controllers
 
         // POST: Crud/Create
         [HttpPost]
-        public ActionResult Create(Friends2 collection)
+        public ActionResult Create(Friend collection)
         {
             try
             {
                 // TODO: Add insert logic here
-                dc.Friends2s.InsertOnSubmit(collection);
+                dc.Friends.InsertOnSubmit(collection);
                 dc.SubmitChanges();
                 return RedirectToAction("Index");
             }
@@ -49,18 +50,18 @@ namespace Friends_linq.Controllers
         // GET: Crud/Edit/5
         public ActionResult Edit(int id)
         {
-            var getFriendDetails = dc.Friends2s.Single(x => x.FriendId == id);
+            var getFriendDetails = dc.Friends.Single(x => x.FriendId == id);
             return View(getFriendDetails);
         }
 
         // POST: Crud/Edit/5
         [HttpPost]
-        public ActionResult Edit(int id, Friends2 collection)
+        public ActionResult Edit(int id, Friend collection)
         {
             try
             {
                 // TODO: Add update logic here
-                Friends2 friendsupdate = dc.Friends2s.Single(x => x.FriendId == id);
+                Friend friendsupdate = dc.Friends.Single(x => x.FriendId == id);
                 friendsupdate.FriendName = collection.FriendName;
                 friendsupdate.Place = collection.Place;
                 dc.SubmitChanges();
@@ -75,19 +76,19 @@ namespace Friends_linq.Controllers
         // GET: Crud/Delete/5
         public ActionResult Delete(int id)
         {
-            var getFriendDetails = dc.Friends2s.Single(x => x.FriendId == id);
+            var getFriendDetails = dc.Friends.Single(x => x.FriendId == id);
             return View(getFriendDetails);
         }
 
         // POST: Crud/Delete/5
         [HttpPost]
-        public ActionResult Delete(int id, Friends2 collection)
+        public ActionResult Delete(int id, Friend collection)
         {
             try
             {
                 // TODO: Add delete logic here
-                var friendDelete = dc.Friends2s.Single(x => x.FriendId == id);
-                dc.Friends2s.DeleteOnSubmit(friendDelete);
+                var friendDelete = dc.Friends.Single(x => x.FriendId == id);
+                dc.Friends.DeleteOnSubmit(friendDelete);
                 dc.SubmitChanges();
                 return RedirectToAction("Index");
             }
