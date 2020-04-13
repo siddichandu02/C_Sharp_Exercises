@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<hibernate-mapping xmlns="urn:nhibernate-mapping-2.2" auto-import="true" assembly="NhibernateDemo" namespace="NhibernateDemo">
+  <class name="Friend" table="Friend" dynamic-update="true" >
+    <cache usage="read-write"/>
+    <id name="FriendId" column="FriendId" type="long">
+      <generator class="native" />
+    </id>
+    <property name="FriendName"  />
+    <property name="Place" />
+  </class>
+</hibernate-mapping>
