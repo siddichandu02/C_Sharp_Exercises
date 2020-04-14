@@ -8164,7 +8164,8 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\BK185139\\.nuget\\packages\\": {}
+    "C:\\Users\\BK185139\\.nuget\\packages\\": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
@@ -8175,6 +8176,9 @@
       "packagesPath": "C:\\Users\\BK185139\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\BK185139\\source\\repos\\C_Sharp_Exercises\\friends_EntityFramework\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+      ],
       "configFilePaths": [
         "C:\\Users\\BK185139\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"

@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<hibernate-mapping
+   xmlns="urn:nhibernate-mapping-2.2"
+   auto-import ="true"
+   assembly="Nhibernate.Demo.Exercise"
+   namespace="Nhibernate.Demo.Exercise.Domain">
+
+  <class name="Employee" table="Employee" dynamic-update="true" >
+    <cache usage="read-write"/>
+    <id name="EmployeeId" column="EmployeeId" type="long">
+      <generator class="identity" />
+    </id>
+    <property name="EmployeeName"  />
+    <property name="AddressId"/>
+    <!--<many-to-one
+      name="Address" column="AddressId" />-->
+  </class>
+  
+  <class name="Address" table="Address" dynamic-update="true" >
+    <cache usage="read-write"/>
+    <id name="AddressId" column="AddressId" type="long">
+      <generator class="identity" />
+    </id>
+    <property name="City"  />
+  </class>
+ 
+</hibernate-mapping>
